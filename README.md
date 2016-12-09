@@ -1,3 +1,4 @@
 # dam_emoji
 
-Emoji GIF file
+Slack Custom Emoji
+GIF file
